@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ## 🏅 Certifications (Table)
 | Badge | Name | Issuer |
 |---|---|---|
+| <a href="https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url"><img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="25"></a> | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
 | <a href="https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url"><img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="50"></a> | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
 | [![CKA](https://img.shields.io/badge/Certification-CKA-blue?style=flat-square&logo=kubernetes)](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
 
