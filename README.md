@@ -1,28 +1,25 @@
-<!--
-**pasantru/pasantru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Pasantru
 
-Here are some ideas to get you started:
+<!-- [![CKA](https://img.shields.io/badge/Certification-CKA-blue?style=flat-square&logo=kubernetes)](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`DevOps / Cloud Architect / SRE / SysAdmin`
 
-<h1 align="center">Hi, I'm Pablo 👋</h1>
-<p align="center"><b>Certified Kubernetes Administrator (CKA)</b> | DevOps Enthusiast</p>
+DevOps Engineer specialized in architecting high-impact solutions. I leverage Azure, AWS, Kubernetes, and Terraform to build and scale resilient systems using KISS principles.
 
+When I'm not architecting production environments, I'm usually breaking and rebuilding things in my **Homelab**—because breaking things in production is a privilege I prefer to keep to a minimum.
 
-### 🏅 Certifications
-- <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="15" /> **Certified Kubernetes Administrator (CKA)** — [Verify on Credly](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url)
+### These days I’m focused on:
+- **Cloud Architecture** — Designing high-availability systems on Azure and AWS.
+- **SRE & Automation** — Optimizing CI/CD pipelines and driving SLA reliability.
+- **Homelab Experiments** — Self-hosting, networking, and testing emerging cloud-native tech.
+- **Small, Thoughtful Scripts** — Building polished Bash and automation tools that just work.
 
-## 🏅 Certifications (Table)
-| Badge | Name | Issuer |
-|---|---|---|
-| <a href="https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url"><img src="https://images.credly.com/size/340x340/images/6990422c-a517-48f8-a00d-994490f30691/cka-certified-kubernetes-administrator.png" width="15"></a> | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
-| [![CKA](https://img.shields.io/badge/Certification-CKA-blue?style=flat-square&logo=kubernetes)](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
+### Core Stack:
+`Kubernetes` `Azure` `AWS` `Terraform` `Python` `Bash` `Linux`
 
+---
+
+### Certifications
+| Name | Issuer | Verify | Expiration |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="15"> **Certified Kubernetes Administrator (CKA)** | The Linux Foundation | [Verify on Credly](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | Feb 06, 2028 |
