@@ -18,24 +18,11 @@ Here are some ideas to get you started:
 
 
 ### 🏅 Certifications
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://www.credly.com/your-profile-link">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="60" />
-      </a>
-      <br />
-      <b>Kubernetes</b>
-    </td>
-    <td align="left">
-      <a href="https://www.credly.com/your-profile-link">
-        <img src="./path-to-your-cka-image.png" width="120" alt="CKA Badge" />
-      </a>
-      <br />
-      <b>Certified Kubernetes Administrator (CKA)</b> <br />
-      <i>Issued by The Linux Foundation</i>
-    </td>
-  </tr>
-</table>
+- <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="15" /> **Certified Kubernetes Administrator (CKA)** — [Verify on Credly](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0377d962-256b-4b22-b2c3-c2a0e3b4b611" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+## 🏅 Certifications (Table)
+| Badge | Name | Issuer |
+|---|---|---|
+| <a href="https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url"><img src="https://images.credly.com/size/340x340/images/6990422c-a517-48f8-a00d-994490f30691/cka-certified-kubernetes-administrator.png" width="50"></a> | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
+| [![CKA](https://img.shields.io/badge/Certification-CKA-blue?style=flat-square&logo=kubernetes)](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | [**Certified Kubernetes Administrator**](https://www.credly.com/badges/0377d962-256b-4b22-b2c3-c2a0e3b4b611/public_url) | The Linux Foundation |
+
